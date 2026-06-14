@@ -8,15 +8,15 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-   "engines": {
-    "node": "20.x"
+  "engines": {
+    "node": "22.x"
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
-    "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-router-dom": "latest"
+    "react-router-dom": "latest",
+    "vite": "latest"
   },
-  "devDependencies": {}
+  "packageManager": "pnpm@10.22.0"
 }
